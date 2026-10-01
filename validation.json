@@ -1,0 +1,668 @@
+{
+  "iteration": 6,
+  "reopened": true,
+  "passed": true,
+  "counts": {
+    "cells": 30,
+    "doors": 30,
+    "locks": 30,
+    "strikers": 30,
+    "feedback_paths": 30,
+    "limiters": 30,
+    "drain_entries": 30,
+    "gutters": 6,
+    "section_harnesses": 6,
+    "power_connectors": 6,
+    "signal_connectors": 6,
+    "power_harnesses": 6,
+    "signal_harnesses": 6,
+    "anchor_plates": 14,
+    "sensor_reserves": 30,
+    "lock_channels": 48,
+    "KR_CU48": 1,
+    "RaspberryPi4": 1,
+    "USB_RS485": 1,
+    "RUT200": 1,
+    "LRS35012": 1,
+    "DDR30G5": 1,
+    "MTK_EH150": 1,
+    "TBS140": 1,
+    "TBS240": 1,
+    "Contactor": 1,
+    "service_modules": 1
+  },
+  "failures": [],
+  "checks": {
+    "count_cells": {
+      "passed": true,
+      "detail": null
+    },
+    "count_doors": {
+      "passed": true,
+      "detail": null
+    },
+    "count_locks": {
+      "passed": true,
+      "detail": null
+    },
+    "count_strikers": {
+      "passed": true,
+      "detail": null
+    },
+    "count_feedback_paths": {
+      "passed": true,
+      "detail": null
+    },
+    "count_limiters": {
+      "passed": true,
+      "detail": null
+    },
+    "count_drain_entries": {
+      "passed": true,
+      "detail": null
+    },
+    "count_gutters": {
+      "passed": true,
+      "detail": null
+    },
+    "count_section_harnesses": {
+      "passed": true,
+      "detail": null
+    },
+    "count_power_connectors": {
+      "passed": true,
+      "detail": null
+    },
+    "count_signal_connectors": {
+      "passed": true,
+      "detail": null
+    },
+    "count_power_harnesses": {
+      "passed": true,
+      "detail": null
+    },
+    "count_signal_harnesses": {
+      "passed": true,
+      "detail": null
+    },
+    "count_anchor_plates": {
+      "passed": true,
+      "detail": null
+    },
+    "count_sensor_reserves": {
+      "passed": true,
+      "detail": null
+    },
+    "count_lock_channels": {
+      "passed": true,
+      "detail": null
+    },
+    "count_KR_CU48": {
+      "passed": true,
+      "detail": null
+    },
+    "count_RaspberryPi4": {
+      "passed": true,
+      "detail": null
+    },
+    "count_USB_RS485": {
+      "passed": true,
+      "detail": null
+    },
+    "count_RUT200": {
+      "passed": true,
+      "detail": null
+    },
+    "count_LRS35012": {
+      "passed": true,
+      "detail": null
+    },
+    "count_DDR30G5": {
+      "passed": true,
+      "detail": null
+    },
+    "count_MTK_EH150": {
+      "passed": true,
+      "detail": null
+    },
+    "count_TBS140": {
+      "passed": true,
+      "detail": null
+    },
+    "count_TBS240": {
+      "passed": true,
+      "detail": null
+    },
+    "count_Contactor": {
+      "passed": true,
+      "detail": null
+    },
+    "no_section_active_devices": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_01_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_02_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_03_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_04_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_05_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_06_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_07_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_08_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_09_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_10_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_11_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_12_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_13_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_14_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_15_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_16_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_17_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_18_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_19_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_20_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_21_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_22_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_23_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_24_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_25_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_26_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_27_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_28_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_29_size": {
+      "passed": true,
+      "detail": null
+    },
+    "Cell_30_size": {
+      "passed": true,
+      "detail": null
+    },
+    "useful_volume_free": {
+      "passed": true,
+      "detail": []
+    },
+    "locks_outside_clear_volume": {
+      "passed": true,
+      "detail": null
+    },
+    "service_device_collisions": {
+      "passed": true,
+      "detail": []
+    },
+    "service_removal_envelopes": {
+      "passed": true,
+      "detail": []
+    },
+    "devices_within_existing_service": {
+      "passed": true,
+      "detail": null
+    },
+    "drainage_wiring_separation": {
+      "passed": true,
+      "detail": []
+    },
+    "heater_reserved_clearance": {
+      "passed": true,
+      "detail": []
+    },
+    "drainage_exits_outside": {
+      "passed": true,
+      "detail": null
+    },
+    "drain_slope": {
+      "passed": true,
+      "detail": null
+    },
+    "PE_explicit_branches": {
+      "passed": true,
+      "detail": null
+    },
+    "section_bonding": {
+      "passed": true,
+      "detail": null
+    },
+    "RS485_local": {
+      "passed": true,
+      "detail": null
+    },
+    "port_access": {
+      "passed": true,
+      "detail": []
+    },
+    "connector_access_above": {
+      "passed": true,
+      "detail": "Roof and top-duct lid removed, power off; connector fit/unlatching await SKU"
+    },
+    "service_wires_vs_other_devices_and_HV_barrier": {
+      "passed": true,
+      "detail": []
+    },
+    "section_harnesses_vs_duct_walls": {
+      "passed": true,
+      "detail": []
+    },
+    "limiter_100deg_geometric_limit": {
+      "passed": true,
+      "detail": [
+        {
+          "door": 1,
+          "rope_m": 0.23023182654369967,
+          "distance_at100_m": 0.23023182654369967,
+          "distance_at105_m": 0.23288146827967834,
+          "passed": true
+        },
+        {
+          "door": 2,
+          "rope_m": 0.23023182654369967,
+          "distance_at100_m": 0.23023182654369967,
+          "distance_at105_m": 0.23288146827967834,
+          "passed": true
+        },
+        {
+          "door": 3,
+          "rope_m": 0.23023182654369967,
+          "distance_at100_m": 0.23023182654369967,
+          "distance_at105_m": 0.23288146827967834,
+          "passed": true
+        },
+        {
+          "door": 4,
+          "rope_m": 0.23023182654369967,
+          "distance_at100_m": 0.23023182654369967,
+          "distance_at105_m": 0.23288146827967834,
+          "passed": true
+        },
+        {
+          "door": 5,
+          "rope_m": 0.23023182654369967,
+          "distance_at100_m": 0.23023182654369967,
+          "distance_at105_m": 0.23288146827967834,
+          "passed": true
+        },
+        {
+          "door": 6,
+          "rope_m": 0.23023181643082116,
+          "distance_at100_m": 0.23023181643082116,
+          "distance_at105_m": 0.2328814452846968,
+          "passed": true
+        },
+        {
+          "door": 7,
+          "rope_m": 0.23023181643082116,
+          "distance_at100_m": 0.23023181643082116,
+          "distance_at105_m": 0.2328814452846968,
+          "passed": true
+        },
+        {
+          "door": 8,
+          "rope_m": 0.23023181643082116,
+          "distance_at100_m": 0.23023181643082116,
+          "distance_at105_m": 0.2328814452846968,
+          "passed": true
+        },
+        {
+          "door": 9,
+          "rope_m": 0.23023181643082116,
+          "distance_at100_m": 0.23023181643082116,
+          "distance_at105_m": 0.2328814452846968,
+          "passed": true
+        },
+        {
+          "door": 10,
+          "rope_m": 0.23023181643082116,
+          "distance_at100_m": 0.23023181643082116,
+          "distance_at105_m": 0.2328814452846968,
+          "passed": true
+        },
+        {
+          "door": 11,
+          "rope_m": 0.23023183261142655,
+          "distance_at100_m": 0.23023183261142655,
+          "distance_at105_m": 0.23288145928164236,
+          "passed": true
+        },
+        {
+          "door": 12,
+          "rope_m": 0.23023183261142655,
+          "distance_at100_m": 0.23023183261142655,
+          "distance_at105_m": 0.23288145928164236,
+          "passed": true
+        },
+        {
+          "door": 13,
+          "rope_m": 0.23023183261142655,
+          "distance_at100_m": 0.23023183261142655,
+          "distance_at105_m": 0.23288145928164236,
+          "passed": true
+        },
+        {
+          "door": 14,
+          "rope_m": 0.23023183261142655,
+          "distance_at100_m": 0.23023183261142655,
+          "distance_at105_m": 0.23288145928164236,
+          "passed": true
+        },
+        {
+          "door": 15,
+          "rope_m": 0.23023183261142655,
+          "distance_at100_m": 0.23023183261142655,
+          "distance_at105_m": 0.23288145928164236,
+          "passed": true
+        },
+        {
+          "door": 16,
+          "rope_m": 0.23023176030433745,
+          "distance_at100_m": 0.23023176030433745,
+          "distance_at105_m": 0.23288140329385504,
+          "passed": true
+        },
+        {
+          "door": 17,
+          "rope_m": 0.23023176030433745,
+          "distance_at100_m": 0.23023176030433745,
+          "distance_at105_m": 0.23288140329385504,
+          "passed": true
+        },
+        {
+          "door": 18,
+          "rope_m": 0.23023176030433745,
+          "distance_at100_m": 0.23023176030433745,
+          "distance_at105_m": 0.23288140329385504,
+          "passed": true
+        },
+        {
+          "door": 19,
+          "rope_m": 0.23023176030433745,
+          "distance_at100_m": 0.23023176030433745,
+          "distance_at105_m": 0.23288140329385504,
+          "passed": true
+        },
+        {
+          "door": 20,
+          "rope_m": 0.23023176030433745,
+          "distance_at100_m": 0.23023176030433745,
+          "distance_at105_m": 0.23288140329385504,
+          "passed": true
+        },
+        {
+          "door": 21,
+          "rope_m": 0.23023192868374756,
+          "distance_at100_m": 0.23023161518444674,
+          "distance_at105_m": 0.2328812513269359,
+          "passed": true
+        },
+        {
+          "door": 22,
+          "rope_m": 0.23023192868374756,
+          "distance_at100_m": 0.23023161518444674,
+          "distance_at105_m": 0.2328812513269359,
+          "passed": true
+        },
+        {
+          "door": 23,
+          "rope_m": 0.23023192868374756,
+          "distance_at100_m": 0.23023161518444674,
+          "distance_at105_m": 0.2328812513269359,
+          "passed": true
+        },
+        {
+          "door": 24,
+          "rope_m": 0.23023192868374756,
+          "distance_at100_m": 0.23023161518444674,
+          "distance_at105_m": 0.2328812513269359,
+          "passed": true
+        },
+        {
+          "door": 25,
+          "rope_m": 0.23023192868374756,
+          "distance_at100_m": 0.23023161518444674,
+          "distance_at105_m": 0.2328812513269359,
+          "passed": true
+        },
+        {
+          "door": 26,
+          "rope_m": 0.23023189682819295,
+          "distance_at100_m": 0.23023189682819295,
+          "distance_at105_m": 0.23288154626264237,
+          "passed": true
+        },
+        {
+          "door": 27,
+          "rope_m": 0.23023189682819295,
+          "distance_at100_m": 0.23023189682819295,
+          "distance_at105_m": 0.23288154626264237,
+          "passed": true
+        },
+        {
+          "door": 28,
+          "rope_m": 0.23023189682819295,
+          "distance_at100_m": 0.23023189682819295,
+          "distance_at105_m": 0.23288154626264237,
+          "passed": true
+        },
+        {
+          "door": 29,
+          "rope_m": 0.23023189682819295,
+          "distance_at100_m": 0.23023189682819295,
+          "distance_at105_m": 0.23288154626264237,
+          "passed": true
+        },
+        {
+          "door": 30,
+          "rope_m": 0.23023189682819295,
+          "distance_at100_m": 0.23023189682819295,
+          "distance_at105_m": 0.23288154626264237,
+          "passed": true
+        }
+      ]
+    },
+    "active_and_reserve_channels": {
+      "passed": true,
+      "detail": null
+    },
+    "all_cell_and_service_door_sweeps": {
+      "passed": true,
+      "detail": []
+    },
+    "retained_Rev5_meshes_and_translated_transforms": {
+      "passed": true,
+      "detail": {
+        "count": 1790,
+        "changed": []
+      }
+    },
+    "SERVICE_geometrically_centered": {
+      "passed": true,
+      "detail": {
+        "actual": 1.559999942779541,
+        "target": 1.56
+      }
+    },
+    "balanced_section_positions": {
+      "passed": true,
+      "detail": {
+        "left": 3,
+        "right": 3
+      }
+    },
+    "overall_width_unchanged": {
+      "passed": true,
+      "detail": null
+    },
+    "one_SERVICE": {
+      "passed": true,
+      "detail": null
+    },
+    "actual_cell_positions": {
+      "passed": true,
+      "detail": null
+    },
+    "anchor_access_clear_of_new_parts": {
+      "passed": true,
+      "detail": []
+    },
+    "home_run_topology": {
+      "passed": true,
+      "detail": null
+    },
+    "two_passive_zones_no_extra_PCB": {
+      "passed": true,
+      "detail": null
+    },
+    "each_section_PE_from_bar": {
+      "passed": true,
+      "detail": null
+    },
+    "AC_input_inside_SERVICE": {
+      "passed": true,
+      "detail": null
+    },
+    "LTE_roof_local": {
+      "passed": true,
+      "detail": null
+    },
+    "ventilation_reserve_on_external_rear": {
+      "passed": true,
+      "detail": null
+    },
+    "SERVICE_has_no_wet_gallery": {
+      "passed": true,
+      "detail": null
+    },
+    "LTE_coax_clear_of_duct_walls_and_roof": {
+      "passed": true,
+      "detail": []
+    },
+    "adjacent_SERVICE_simultaneous_door_sweeps": {
+      "passed": true,
+      "detail": []
+    },
+    "frozen_sources_byte_identical": {
+      "passed": true,
+      "detail": null
+    }
+  },
+  "limitations": [
+    "Discrete 8-angle sweeps per door, not continuous motion or wind load",
+    "Limiter: length kinematics, not fatigue or dynamics",
+    "Cable/wet separation samples include radius, not CFD or freeze validation",
+    "Thermal clearance is provisional reserved geometry, not certified distance",
+    "Connector release and component port positions approximate until physical samples",
+    "Not a tested electrical netlist or climate certification",
+    "Rev.5 component and connector envelopes retained; no new electrical or climatic certification",
+    "Rear ventilation reserves remain sealed, no fan selected; rear installation clearance 250 mm reserved",
+    "QR area is a placeholder until a real app URL is supplied",
+    "Validation samples motion and geometric envelopes; physical bench remains required"
+  ],
+  "limiter_numeric_tolerance_m": 1e-06,
+  "dimensions": {
+    "sections": 6,
+    "sections_per_side": 3,
+    "cells": 30,
+    "service_width_mm": 420,
+    "body_WDH_mm": [
+      3120.0,
+      530,
+      1761.2
+    ],
+    "overall_WDH_mm": [
+      3240.0000654160976,
+      699.9999806284904,
+      1853.8999557495117
+    ],
+    "service_center_x_m": 1.56,
+    "body_center_x_m": 1.56,
+    "source_overall_width_mm": 3240.0,
+    "roof_slope_and_overhangs": "unchanged",
+    "cell_clear_WHD_mm": [
+      400,
+      300,
+      450
+    ],
+    "dimension_scope": "structural envelope; future antenna/fan SKU not selected"
+  }
+}
